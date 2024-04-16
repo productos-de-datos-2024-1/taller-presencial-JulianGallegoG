@@ -1,12 +1,6 @@
-2024-04-16 16:24:57,900:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-04-16 17:50:40,837:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5001
-2024-04-16 16:24:57,900:INFO:[33mPress CTRL+C to quit[0m
-2024-04-16 16:24:57,901:INFO: * Restarting with stat
-2024-04-16 16:24:58,516:WARNING: * Debugger is active!
-2024-04-16 16:24:58,516:INFO: * Debugger PIN: 631-654-581
-2024-04-16 16:25:37,892:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
-2024-04-16 16:25:38,352:INFO:Prediction: [1605832.10562042]
-2024-04-16 16:25:38,352:INFO:127.0.0.1 - - [16/Apr/2024 16:25:38] "POST / HTTP/1.1" 200 -
-2024-04-16 16:27:33,918:INFO:127.0.0.1 - - [16/Apr/2024 16:27:33] "[31m[1mGET / HTTP/1.1[0m" 405 -
-2024-04-16 16:27:35,492:INFO:127.0.0.1 - - [16/Apr/2024 16:27:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-2024-04-16 16:28:06,472:INFO:127.0.0.1 - - [16/Apr/2024 16:28:06] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-16 17:50:40,837:INFO:[33mPress CTRL+C to quit[0m
+2024-04-16 17:50:40,838:INFO: * Restarting with stat
+2024-04-16 17:50:41,699:WARNING: * Debugger is active!
+2024-04-16 17:50:41,699:INFO: * Debugger PIN: 803-710-290

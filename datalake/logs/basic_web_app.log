@@ -1,10 +1,10 @@
-2024-04-16 16:21:15,510:INFO:Starting the application
-2024-04-16 16:21:15,516:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-04-16 17:50:28,255:INFO:Starting the application
+2024-04-16 17:50:28,265:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-2024-04-16 16:21:15,516:INFO:[33mPress CTRL+C to quit[0m
-2024-04-16 16:21:15,516:INFO: * Restarting with stat
-2024-04-16 16:21:16,108:INFO:Starting the application
-2024-04-16 16:21:16,110:WARNING: * Debugger is active!
-2024-04-16 16:21:16,111:INFO: * Debugger PIN: 107-872-504
-2024-04-16 16:21:57,767:INFO:Starting the application
-2024-04-16 16:21:57,982:INFO:Starting the application
+2024-04-16 17:50:28,265:INFO:[33mPress CTRL+C to quit[0m
+2024-04-16 17:50:28,266:INFO: * Restarting with stat
+2024-04-16 17:50:29,139:INFO:Starting the application
+2024-04-16 17:50:29,143:WARNING: * Debugger is active!
+2024-04-16 17:50:29,144:INFO: * Debugger PIN: 831-234-205
+2024-04-16 17:50:31,130:INFO:Starting the application
+2024-04-16 17:50:31,243:INFO:Starting the application
