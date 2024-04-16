@@ -1,0 +1,36 @@
+2024-04-16 23:42:52,343:INFO:Starting API server
+2024-04-16 23:42:52,382:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-04-16 23:42:52,383:INFO:[33mPress CTRL+C to quit[0m
+2024-04-16 23:42:52,389:INFO: * Restarting with stat
+2024-04-16 23:42:53,277:INFO:Starting API server
+2024-04-16 23:42:53,284:WARNING: * Debugger is active!
+2024-04-16 23:42:53,287:INFO: * Debugger PIN: 105-445-388
+2024-04-16 23:49:49,188:INFO:Finishing API server
+2024-04-16 23:49:49,410:INFO:Finishing API server
+2024-04-16 23:50:59,164:INFO:Starting API server
+2024-04-16 23:50:59,174:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-04-16 23:50:59,174:INFO:[33mPress CTRL+C to quit[0m
+2024-04-16 23:50:59,175:INFO: * Restarting with stat
+2024-04-16 23:51:00,109:INFO:Starting API server
+2024-04-16 23:51:00,114:WARNING: * Debugger is active!
+2024-04-16 23:51:00,114:INFO: * Debugger PIN: 105-445-388
+2024-04-16 23:56:02,320:INFO:Finishing API server
+2024-04-16 23:56:02,491:INFO:Finishing API server
+2024-04-16 23:56:09,139:INFO:Starting API server
+2024-04-16 23:56:09,149:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-04-16 23:56:09,149:INFO:[33mPress CTRL+C to quit[0m
+2024-04-16 23:56:09,150:INFO: * Restarting with stat
+2024-04-16 23:56:09,955:INFO:Starting API server
+2024-04-16 23:56:09,962:WARNING: * Debugger is active!
+2024-04-16 23:56:09,962:INFO: * Debugger PIN: 105-445-388
+2024-04-16 23:57:26,955:INFO:172.18.0.1 - - [16/Apr/2024 23:57:26] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-16 23:57:28,508:INFO:172.18.0.1 - - [16/Apr/2024 23:57:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
